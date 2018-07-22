@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InputReader
+comment0.text=\r\n\ Reads\ the\ input\ file\ and\ set\ up\ the\ database\r\n
+comment1.params=input\ commonlist
+comment1.target=InputReader(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InputReader\r\n\ @param\ input\ -\ location\ of\ the\ input\ file\r\n\ @param\ commonlist\ -\ the\ location\ of\ common\ words\ list\r\n
+comment2.params=
+comment2.target=void\ setupWebsites()
+comment2.text=setup\ the\ websites\ to\ be\ stored\ in\ the\ database
+comment3.params=site
+comment3.target=Website\ intitInfo(java.lang.String)
+comment3.text=intitilize\ the\ info\ of\ each\ website\r\n\ @param\ site\ -\ the\ String\ containing\ website\ info\r\n\ @return\ Website\ containing\ information\ initilized\r\n
+comment4.params=i
+comment4.target=Website\ getWebsite(int)
+comment4.text=websiteCntainer\ getter
+comment5.params=
+comment5.target=java.util.ArrayList\ getWebsiteContainer()
+comment5.text=websiteCntainer\ getter
+numComments=6

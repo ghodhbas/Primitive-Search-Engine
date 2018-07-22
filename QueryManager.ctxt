@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=QueryManager
+comment0.text=\r\nManages\ the\ user's\ requests\ and\ return\ and\ relevant\ websites\r\n
+comment1.params=query\ database
+comment1.target=QueryManager(java.lang.String,\ DataBase)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ QueryManager\r\n\ @param\ query\ -\ the\ query\ of\ the\ user\r\n\ @param\ database\ -\ the\ database\ containing\ websites'\ infos\r\n
+comment2.params=
+comment2.target=void\ analyze()
+comment2.text=analyze\ the\ query\ and\ disect\ it\ into\ elemental\ key\ words\ and\ relations\ and\ fills\ the\ temporary\ and\ final\ result
+comment3.params=web\ orWord
+comment3.target=void\ conjunc(Website,\ java.lang.String)
+comment3.text=handle\ cases\ where\ there's\ "and"\ \r\n\ @param\ web\ -\ the\ website\ to\ check\r\n\ @param\ orWord\ -\ keyword\ or\ group\ of\ keywords\ containing\ "and"\ relation\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getKeywords()
+comment4.text=return\ general\ keywords\ that\ are\ seperated\ by\ or
+comment5.params=
+comment5.target=int\ getSize()
+comment5.text=return\ the\ size\ of\ the\ result\ of\ the\ search
+comment6.params=i
+comment6.target=void\ getResult(int)
+comment6.text=print\ the\ first\ result\ and\ remove\ it\r\n\ @param\ i\ -\ order\ of\ the\ resilt\ (1st,\ 2nd\ ...)\r\n
+comment7.params=
+comment7.target=void\ resetMatchCounter()
+comment7.text=reset\ the\ counter\ of\ matched\ keywords
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SearchEngine
+comment0.text=\r\n\ this\ class\ is\ the\ main\ controller\ of\ the\ program\r\n
+comment1.params=input\ commonlist
+comment1.target=SearchEngine(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SearchEngine\r\n\ @param\ input\ -\ the\ location\ of\ the\ input\ fila\r\n\ @param\ commonlist\ -\ the\ location\ of\ the\ commonwords\ list\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=run\ the\ search\ engine
+comment3.params=
+comment3.target=java.lang.String\ getQuery()
+comment3.text=build\ the\ query
+numComments=4

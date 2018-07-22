@@ -1,0 +1,4 @@
+www.elephants.com medium chigi.txt
+www.riding.com low TherapeuticEquestrianSport.txt
+www.SouthernEats.com high SouthernCuisine.txt
+www.tornado.com high SurvivingTornadoes.txtwww.anime.com high anime.txtwww.japan.jp medium japan.txt

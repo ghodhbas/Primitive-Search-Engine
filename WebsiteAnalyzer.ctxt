@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WebsiteAnalyzer
+comment0.text=\r\n\ this\ website\ analyze\ the\ description\ of\ a\ website\ and\ build\ the\ filtered\ keywords\r\n
+comment1.params=location\ commonlist
+comment1.target=WebsiteAnalyzer(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WebsiteAnalyzer\r\n\ @param\ location\ -\ the\ lcoation\ of\ the\ website\r\n\ @param\ commonlist\ -\ the\ location\ of\ commonwords\ list\r\n
+comment2.params=
+comment2.target=java.util.TreeSet\ filter()
+comment2.text=form\ keyword\ database\r\n\ @return\ a\ filtered\ treeset\ of\ keywords\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommon()
+comment3.text=return\ the\ common\ words\ in\ a\ string
+comment4.params=
+comment4.target=int\ keywordsSize()
+comment4.text=return\ the\ number\ of\ keywords\ of\ a\ website
+comment5.params=
+comment5.target=java.lang.String\ pollFirst()
+comment5.text=return\ and\ remove\ the\ first\ keyword
+comment6.params=
+comment6.target=boolean\ isEmpty()
+comment6.text=check\ if\ the\ website\ doesn't\ have\ any\ keywords
+comment7.params=
+comment7.target=java.util.TreeSet\ getKeywords()
+comment7.text=return\ the\ keywords\ of\ a\ website
+numComments=8

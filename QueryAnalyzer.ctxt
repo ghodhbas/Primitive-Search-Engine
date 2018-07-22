@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=QueryAnalyzer
+comment0.text=\r\n\ this\ class\ is\ responsible\ for\ analazing\ the\ user's\ query\ and\ return\ the\ valid\ keywords\ to\ look\ for\r\n
+comment1.params=query
+comment1.target=QueryAnalyzer(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ QueryAnalyzer\r\n\ @param\ query\ -\ the\ query\ of\ the\ user\r\n
+comment2.params=orWords
+comment2.target=java.util.ArrayList\ orDisect(java.util.ArrayList)
+comment2.text=disect\ "or"\r\n\ @param\ orWords\ -\ arrayList\ to\ be\ filled\ with\ the\ expressions\ seperated\ by\ "or"\r\n\ @return\ arraylist\ conaining\ expressions\ that\ were\ seperated\ by\ "or"\r\n
+comment3.params=orWord
+comment3.target=java.util.ArrayList\ andDisect(java.lang.String)
+comment3.text=disect\ "and"\r\n\ @param\ orWord-\ String\ containing\ expression\ that\ potentially\ has\ "and"\ in\ it\ \ \ \ \ \ \ \r\n\ @return\ arralist\ containing\ individual\ keywords\ that\ were\ seperated\ by\ "and"\r\n
+comment4.params=word
+comment4.target=java.lang.String\ disectNegation(java.lang.String)
+comment4.text=disect\ negation\r\n\ @param\ word\ -\ String\ containing\ a\ negation\r\n\ @return\ a\ String\ without\ the\ negation\r\n
+numComments=5

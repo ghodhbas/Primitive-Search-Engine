@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DataBase
+comment0.text=\r\n\ this\ class\ is\ responsible\ for\ initilizing\ the\ website\ data\ base\ and\ storing\ them\r\n
+comment1.params=input\ commonlist
+comment1.target=DataBase(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DataBase\r\n\ @param\ input\ -\ location\ of\ input\ file\r\n\ @param\ commonlist\ -\ location\ of\ common\ words\ list\r\n
+comment2.params=
+comment2.target=void\ init()
+comment2.text=intitialize\ data\ base
+comment3.params=keyword\ websitePos
+comment3.target=boolean\ contains(java.lang.String,\ int)
+comment3.text=check\ if\ the\ key\ word\ exists\ in\ a\ particular\ website\ in\ the\ data\ abse\r\n\ @param\ keyword\ -\ check\ if\ the\ website\ in\ position\ "websitePos"\ in\ the\ database\ contain\ a\ specific\ keyword\r\n\ @return\ true\ if\ the\ keyword\ exists\r\n
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=gets\ the\ size\ of\ the\ data\ base
+comment5.params=i
+comment5.target=Website\ get(int)
+comment5.text=returns\ website\ in\ positioni
+numComments=6

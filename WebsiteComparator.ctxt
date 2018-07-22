@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WebsiteComparator
+comment0.text=\r\n\ compare\ websites\ in\ order\ of\ matching\ keywords\r\n\ priority\r\n\ alphabetically\r\n
+comment1.params=
+comment1.target=WebsiteComparator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WebsiteComparator\r\n
+comment2.params=web1\ web2
+comment2.target=int\ compare(Website,\ Website)
+comment2.text=\ comapres\ to\ websites\ in\ order\ of\ matching\ keywords,\ priority\ and\ alphabetically\r\n\ @param\ web1\ -\ the\ first\ website\ to\ compare\r\n\ @param\ web2\ -\ the\ 2nd\ websiteto\ compare\r\n
+numComments=3
